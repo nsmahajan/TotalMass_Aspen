@@ -1,0 +1,16 @@
+{
+	"components": [{
+			"name": "carbon",
+			"mass": 1.6,
+			"units": "kilograms"
+		}, {
+			"name": "sulfur",
+			"mass": 36,
+			"units": "mol"
+		}, {
+			"name": "oxygen",
+			"mass": 871,
+			"units": "grams"
+		}
+	]
+} 
